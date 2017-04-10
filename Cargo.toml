@@ -1,0 +1,8 @@
+[package]
+name = "macro_compiler_conflicts"
+version = "0.1.0"
+authors = ["Zhijian Huang <zjhuang.davis@gmail.com>"]
+
+[dependencies]
+overflower = "0.3.3"
+overflower_support = "0.1.5"
